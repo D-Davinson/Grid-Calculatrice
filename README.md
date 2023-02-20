@@ -2,6 +2,6 @@
 
 first approach with css grid
 
-## Authors
+## Author
 
 -   [@D-Davinson](https://www.github.com/D-Davinson)
